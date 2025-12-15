@@ -1,4 +1,4 @@
-# Predicting Depression Scores Using Linear Regression (R)
+# Predicting Depression Scores Using Linear Regression 
 
 This repository contains a statistical analysis project focused on predicting adolescent depression scores using linear regression techniques in R.
 
@@ -17,7 +17,7 @@ This project was completed as part of an **MSc Data Science group project** and 
 - Model diagnostics and assumption checks
 - Model evaluation using RMSE and R²
 
-## Tools & Technologies
+## Requirements
 
 - R
 - caret
