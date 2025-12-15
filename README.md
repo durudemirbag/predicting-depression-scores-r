@@ -20,10 +20,13 @@ This project was completed as part of an **MSc Data Science group project** and 
 ## Tools & Technologies
 
 - R
-- ggplot2
+- caret
 - dplyr
+- ggplot2
+- GGally
 - leaps
 - patchwork
+- rpart
 
 ## Repository Structure
 
@@ -31,9 +34,5 @@ This project was completed as part of an **MSc Data Science group project** and 
 - `appendix_code.R` : R script containing the full analysis  
 - `Project.pdf` : Final written report including methodology, results, and interpretation  
 
-## Notes
-
-The complete R code used in the analysis is provided as a standalone `.R` script for reproducibility.  
-The PDF report presents the final results and discussion of the findings.
 
 
